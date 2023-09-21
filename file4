@@ -3,3 +3,5 @@ git branch branch1
 git branch branchname to create a branch using cmd
 git branch -d branchname ---> to delete the branch 
 git merge branch name mentoned branch will get
+local workspace it is alocal area wher we modified the project related files
+staging area or index area or inter mediate whe we save the fil
