@@ -1,3 +1,5 @@
 git branch to list the all branch
 git branch branch1
 git branch branchname to create a branch using cmd
+git branch -d branchname ---> to delete the branch 
+git merge branch name mentoned branch will get
